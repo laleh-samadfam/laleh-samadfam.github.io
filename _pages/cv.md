@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, Sharif University of Technology, 2016
+* M.S. in Computer Science, University of Bonn, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2021: Research Assistant
+  * Pro2Future
+  * Implementation of a pipeline for detection and segmentation of cracks in 3D tunnel images 
+  * Supervisor: Michael Haslgrübler
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019: Research Assistant
+  * Graphics group, University of Bonn
+  * Implemention of a Human Pose Estimation algorithm using acceloremeter sensor data
+  * Supervisor: Professor Andreas Weber
+
+* 2016 : R&D Engineer
+  * Faraadid Co.
+  * Implementation of a pipeline for detection of car plates for trrafic control camera data
+ 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -42,18 +38,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

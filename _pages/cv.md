@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,17 +15,17 @@ Education
 
 Work experience
 ======
-* Spring 2021: Research Assistant
+* Jan 2021 - Apr 2021: Research Assistant
   * Pro2Future
   * Implementation of a pipeline for detection and segmentation of cracks in 3D tunnel images 
   * Supervisor: Michael Haslgrübler
 
-* 2019: Research Assistant
+* July 2019 - June 2020: Research Assistant
   * Graphics group, University of Bonn
   * Implemention of a Human Pose Estimation algorithm using acceloremeter sensor data
   * Supervisor: Professor Andreas Weber
 
-* 2016 : R&D Engineer
+* Oct 2016 - Sept 2017 : R&D Engineer
   * Faraadid Co.
   * Implementation of a pipeline for detection of car plates for trrafic control camera data
  

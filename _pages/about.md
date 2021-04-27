@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Laleh Samadfam's homepage"
+title: "Hello! I am Laleh!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Laleh!
+
+I am a Masters student in computer science. 

@@ -9,4 +9,6 @@ redirect_from:
 ---
 
 
-I am a Masters student in computer science. 
+I am a Masters student in computer science in University of Bonn. 
+
+-to be updated-

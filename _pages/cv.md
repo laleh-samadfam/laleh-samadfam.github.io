@@ -11,10 +11,15 @@ redirect_from:
 Education
 ======
 * B.S. in Software Engineering, Sharif University of Technology, 2016
-* M.S. in Computer Science, University of Bonn, 2021 (expected)
+* M.S. in Computer Science, University of Bonn, 2023
 
 Work experience
 ======
+* July 2021 - Apr 2023: Research Assistant
+  * Fraunhofer HHI
+  * Exploring deep fake generation methods  
+  * Supervisor: Anna Hilsmann
+
 * Jan 2021 - Apr 2021: Research Assistant
   * Pro2Future
   * Implementation of a pipeline for detection and segmentation of cracks in 3D tunnel images 
